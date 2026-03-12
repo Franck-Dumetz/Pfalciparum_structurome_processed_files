@@ -5,6 +5,7 @@ This directory contains the dot/bracket sequence for each gene from the DMS and 
 Raw reads are available at ENA project [PRJEB44384](https://www.ebi.ac.uk/ena/browser/view/PRJEB44384?show=orcid-links) <br />
 
 ## Directory description
+All those reactivity sequences are the results of the treatment reactivity normalized by the DMSO control. They are fully processed as described in the publication and are ready to use <br />
 The directory named [Pf_DMS-seq]() contains all dot/bracket sequences for both replicates <br />
 
 The directory named [Pf_NAI-seq]() contains all dot/bracket sequences for both replicates <br />
