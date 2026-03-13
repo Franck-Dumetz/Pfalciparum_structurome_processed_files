@@ -1,5 +1,5 @@
 # _P. falciparum_ structurome processed files
-This directory contains the dot/bracket sequence for each gene from the DMS and NAI sequencing experiments conducted on _Plasmodium falciparum_ from Dumetz, F., et al. (2022). "The _in vivo_ RNA structurome of the malaria parasite _Plasmodium falciparum_, a protozoan with an A/U-rich transcriptome." PloS one 17(9): e0270863.
+This directory contains the dot/bracket sequence for each gene from the DMS and NAI sequencing experiments conducted on _Plasmodium falciparum_ from Dumetz, F., et al. (2022). "The _in vivo_ RNA structurome of the malaria parasite _Plasmodium falciparum_, a protozoan with an A/U-rich transcriptome." PloS one 17(9): e0270863. doi: [10.1371/journal.pone.0270863](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270863) 
 
 ## Raw reads
 Raw reads are available at ENA project [PRJEB44384](https://www.ebi.ac.uk/ena/browser/view/PRJEB44384?show=orcid-links) <br />
